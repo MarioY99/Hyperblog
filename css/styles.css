@@ -40,3 +40,12 @@ header figure {
     text-decoration: none;
     color: black;
 }
+footer {
+    width: 100%;
+    background-color: silver;
+    padding: 0.5em;
+}
+footer p {
+    color: white;
+    font-size: 20px;
+}
