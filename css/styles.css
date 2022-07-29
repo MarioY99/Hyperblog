@@ -16,7 +16,7 @@ body {
     font-size: 20px;
 }
 header {
-    background-color: papayawhip;
+    background-color: palegoldenrod;
     display: flex;
     justify-content: space-between;
     width: 100%;
@@ -29,6 +29,7 @@ header figure {
 .navbar {
     display: flex;
     list-style: none;
+    justify-content: center;
     width: 200px;
     padding: 0;
 }
@@ -37,5 +38,5 @@ header figure {
 }
 .navbar li a {
     text-decoration: none;
-    color: hotpink;
+    color: black;
 }
